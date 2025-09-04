@@ -90,5 +90,3 @@ This isn't just another student management system - it's a **complete academic e
 
 ---
 
-## 📊 System Architecture  
-
